@@ -1,0 +1,5 @@
+# Listing all the Steps we are going to execute
+
+1.Create Git repo and clone
+2.Create code.py and add code to it.Creates a folder and saves csv file 
+3.Do a Git add -Commit-push.Before initializing DVC
