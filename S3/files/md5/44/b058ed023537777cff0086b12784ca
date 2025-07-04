@@ -1,0 +1,11 @@
+Name,Release Year,Designed By,Typing Discipline,Current Version,Use Case
+Python,1991,Guido van Rossum,Duck / Dynamic,3.12,"Data Science, Web Dev, AI"
+JavaScript,1995,Brendan Eich,Duck / Dynamic,ES2023,"Web Dev, Frontend, Backend"
+C++,1985,Bjarne Stroustrup,Static,C++20,"Systems Programming, Games"
+Java,1995,James Gosling,Static,Java 21,"Enterprise Apps, Android Dev"
+Go,2009,"Robert Griesemer, Rob Pike, Ken Thompson",Static,1.22,"Cloud Computing, DevOps"
+Rust,2010,Graydon Hoare,Static,1.78,"System Programming, Safety-critical apps"
+Ruby,1995,Yukihiro Matsumoto,Duck / Dynamic,3.3,"Web Dev, Scripting"
+TypeScript,2012,Anders Hejlsberg,Static,5.4,Web Dev (Frontend + Backend)
+Kotlin,2011,JetBrains,Static,1.9,"Android Dev, Server-Side"
+Swift,2014,Apple Incorporation,Static,5.9,iOS/macOS Apps

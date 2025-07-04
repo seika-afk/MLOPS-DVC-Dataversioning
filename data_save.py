@@ -16,7 +16,7 @@ data = {
         'Yukihiro Matsumoto',
         'Anders Hejlsberg',
         'JetBrains',
-        'Apple Inc.'
+        'Apple Incorporation'
     ],
     'Typing Discipline': [
         'Duck / Dynamic',
